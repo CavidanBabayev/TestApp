@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="homepagetext">Homepage</string>
+    <string name="tab_text_1">HOMEPAGE</string>
+    <string name="tab_text_2">SEARCH</string>
+    <string name="tab_text_3">NOTIFI</string>
+    <string name="tab_text_4">MESSAGES</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="homepage_top">Homepage</string>
+    <string name="profile_test">Profile</string>
+    <string name="profile_button"> Profile </string>
+    <string name="back_profile">Back</string>
+</resources>
